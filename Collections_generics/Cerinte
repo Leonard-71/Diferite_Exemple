@@ -1,0 +1,9 @@
+Collectii:
+Example 1: Generate 10 random numbers between 1 and 20, which require that the random numbers cannot be repeated
+Example 2: Use Scanner to read a line of input from the keyboard, remove duplicate characters, and print out different characters // print result + duplicates
+Example 3: Remove duplicate elements in the collection // given a list of student, remove duplicates
+
+Example 4:Write a program to traverse(or iterate) HashSet
+Example 5:Given an element write a program to check if element exists in ArrayList, HashSet (eg. class Stundent with name, grade and personalCode, given list of students check if the given student is present in the list)
+Example 6: Write a program to iterate the HashMap
+Example 7: Write a program to sort ArrayList using Comparable and Comparator
