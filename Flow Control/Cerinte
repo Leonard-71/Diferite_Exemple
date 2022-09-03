@@ -1,0 +1,5 @@
+Flow Control:
+Ex 1: Write a method that calculates the factorial of integer n( returns 1*2*…*n).
+Ex 2: Write a method that calculates the nth factorial number( f0 = 0, f1= 1, fn = fn-1 + fn-2).
+Ex 3: Write a method that return true if an integer n is a prime number.
+Ex 4: Write a method that receives a char array and returns true if it represents a palindrome.
