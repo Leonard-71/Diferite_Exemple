@@ -1,2 +1,0 @@
-# Endava
-Teme practica
